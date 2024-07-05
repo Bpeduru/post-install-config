@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Created New role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Role)
+Created New role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Role). Gave this role all permissions. 
 
 </p>
 <br />
@@ -46,7 +46,7 @@ Created New role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Rol
 
 </p>
 <p>
-Created  a new Department, "System Administrators" (Admin Panel -> Agents -> Departments--> Add New Department)
+Created  a new Department, "System Administrators" (Admin Panel -> Agents -> Departments--> Add New Department). 
 </p>
 <br />
 
@@ -74,7 +74,7 @@ Made sure that anyone can create tickets in user settings. Unchecked the box "Re
 
 </p>
 <p>
-Created 2 new agents: "Jane Miller" and "John Martin". Agents are the internal employees who will be working to solve the tickets. (Admin Panel -> Agents -> Add New Agent)
+Created 2 new agents: "Jane Miller" and "John Martin". Agents are the internal employees who will be working to solve the tickets. (Admin Panel -> Agents -> Add New Agent) Added them both to the system administors department and put them in the Supreme Admin role. This gives them the permission to do anything and admin can. 
 
 </p>
 <br />
