@@ -22,11 +22,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Objective 1: Configure Roles - Establish different levels of access and permissions for agents within the ticketing system.
+
+Objective 2: Configure Departments - Organize agents into departments to streamline ticket assignment and management.
+
+Objective 3: Configure Teams - Group agents into teams to handle specific types of support requests or issues.
+
+Objective 4: Allow Anyone to Create Tickets - Set user permissions to allow ticket creation without requiring user registration and login.
+
+Objective 5: Configure Agents (Workers) - Add support staff to the ticketing system and assign them appropriate roles.
+
+Objective 6: Configure Users (Customers) - Add customers to the system to allow them to create and manage their own tickets.
+
+Objective 7: Configure SLA (Service Level Agreements) - Define response and resolution times for different severity levels to ensure timely support.
+
+Objective 8: Configure Help Topics - Create categories for common issues to facilitate efficient ticket creation and routing.
 
 <h2>Configuration Steps</h2>
 
