@@ -103,7 +103,7 @@ Created 2 new users (Customers): "Ken Wheeler" and "Karen Hill". (Agent Panel ->
 
 </p>
 <p>
-Configured SLA so that there is 3 different plans. Sev-A, Sev-B, and Sev-C. (Admin Panel -> Manage -> SLA -> Add new SLA Plan)
+Configured SLA so that there is 3 different plans. Sev-A, Sev-B, and Sev-C. (Admin Panel -> Manage -> SLA -> Add New SLA Plan)
 
 </p>
 <br />
