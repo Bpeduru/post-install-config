@@ -51,7 +51,8 @@ Created  a new Department, "System Administrators" (Admin Panel -> Agents -> Dep
 <br />
 
 <p>
-<img width="952" alt="Screen Shot 2024-07-05 at 1 35 25 PM" src="https://github.com/Bpeduru/post-install-config/assets/171273980/56a12ae7-092f-43d6-9ba7-be5676177b2f">
+<img width="958" alt="Screen Shot 2024-07-05 at 1 56 07 PM" src="https://github.com/Bpeduru/post-install-config/assets/171273980/40d8109e-8679-46b0-8aac-8b2eda3b2338">
+
 
 </p>
 <p>
