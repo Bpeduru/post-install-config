@@ -46,7 +46,7 @@ Objective 8: Configure Help Topics - Create categories for common issues to faci
 
 </p>
 <p>
-Created New role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Role). Gave this role all permissions. 
+Created new role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Role). Gave this role all permissions. 
 
 </p>
 <br />
