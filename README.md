@@ -66,7 +66,7 @@ Created  a new Department, "System Administrators" (Admin Panel -> Agents -> Dep
 
 </p>
 <p>
-Created two new teams, "Level 1 support" and "Level 2 Support" (Admin Panel -> Agents -> Teams -> Add New Team)
+Created two new teams, "Level 1 Support" and "Level 2 Support" (Admin Panel -> Agents -> Teams -> Add New Team)
 </p>
 <br />
 
