@@ -56,7 +56,7 @@ Created new role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Rol
 
 </p>
 <p>
-Created  a new Department, "System Administrators" (Admin Panel -> Agents -> Departments--> Add New Department). 
+Created  a new department, "System Administrators" (Admin Panel -> Agents -> Departments--> Add New Department). 
 </p>
 <br />
 
@@ -84,7 +84,7 @@ Made sure that anyone can create tickets in user settings. Unchecked the box "Re
 
 </p>
 <p>
-Created 2 new agents: "Jane Miller" and "John Martin". Agents are the internal employees who will be working to solve the tickets. (Admin Panel -> Agents -> Add New Agent) Added them both to the system administors department and put them in the Supreme Admin role. This gives them the permission to do anything and admin can. 
+Created 2 new agents: "Jane Miller" and "John Martin". Agents are the internal employees who will be working to solve the tickets. (Admin Panel -> Agents -> Add New Agent). Added them both to the System Administors department and put them in the Supreme Admin role. This gives them the permission to do anything an admin can. 
 
 </p>
 <br />
@@ -103,7 +103,7 @@ Created 2 new users (Customers): "Ken Wheeler" and "Karen Hill". (Agent Panel ->
 
 </p>
 <p>
-Configured SLA so that there is 3 different plans. Sev-A, Sev-B, and Sev-C. (Admin Panel -> Manage -> SLA -> Add New SLA Plan)
+Configured SLA so that there is 3 different plans. Sev-A, Sev-B, and Sev-C. (Admin Panel -> Manage -> SLA -> Add New SLA Plan). They all have different grace periods and schedules depending on the severity. Emulating what a real workplace would have in place. 
 
 </p>
 <br />
