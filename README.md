@@ -46,7 +46,7 @@ Objective 8: Configure Help Topics - Create categories for common issues to faci
 
 </p>
 <p>
-Created new role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Role). Gave this role all permissions. 
+Create new role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Role). Give this role all permissions. 
 
 </p>
 <br />
@@ -56,7 +56,7 @@ Created new role, "Supreme Admin" (Admin Panel -> Agents -> Roles -> Add New Rol
 
 </p>
 <p>
-Created  a new department, "System Administrators" (Admin Panel -> Agents -> Departments--> Add New Department). 
+Create a new department, "System Administrators" (Admin Panel -> Agents -> Departments--> Add New Department). 
 </p>
 <br />
 
@@ -66,14 +66,14 @@ Created  a new department, "System Administrators" (Admin Panel -> Agents -> Dep
 
 </p>
 <p>
-Created two new teams, "Level 1 Support" and "Level 2 Support" (Admin Panel -> Agents -> Teams -> Add New Team)
+Create two new teams, "Level 1 Support" and "Level 2 Support" (Admin Panel -> Agents -> Teams -> Add New Team)
 </p>
 <br />
 
 <img width="949" alt="Screen Shot 2024-07-05 at 1 52 24 PM" src="https://github.com/Bpeduru/post-install-config/assets/171273980/fe46b15d-e61b-419e-a447-e01f59478d3f">
 </p>
 <p>
-Made sure that anyone can create tickets in user settings. Unchecked the box "Require Registration and login to create tickets"
+Make sure that anyone can create tickets in user settings. Uncheck the box "Require Registration and login to create tickets"
 </p>
 <br />
 </p>
@@ -84,7 +84,7 @@ Made sure that anyone can create tickets in user settings. Unchecked the box "Re
 
 </p>
 <p>
-Created 2 new agents: "Jane Miller" and "John Martin". Agents are the internal employees who will be working to solve the tickets. (Admin Panel -> Agents -> Add New Agent). Added them both to the System Administors department and put them in the Supreme Admin role. This gives them the permission to do anything an admin can. 
+Create 2 new agents mine were called: "Jane Miller" and "John Martin". Agents are the internal employees who will be working to solve the tickets. (Admin Panel -> Agents -> Add New Agent). Add them both to the System Administors department and put them in the Supreme Admin role. This gives them the permission to do anything an admin can. 
 
 </p>
 <br />
@@ -103,7 +103,7 @@ Created 2 new users (Customers): "Ken Wheeler" and "Karen Hill". (Agent Panel ->
 
 </p>
 <p>
-Configured SLA so that there is 3 different plans. Sev-A, Sev-B, and Sev-C. (Admin Panel -> Manage -> SLA -> Add New SLA Plan). They all have different grace periods and schedules depending on the severity. Emulating what a real workplace would have in place. 
+Configure SLA so that there is 3 different plans. Sev-A, Sev-B, and Sev-C. (Admin Panel -> Manage -> SLA -> Add New SLA Plan). They all have different grace periods and schedules depending on the severity. Emulating what a real workplace would have in place. 
 
 </p>
 <br />
@@ -117,7 +117,7 @@ Configured SLA so that there is 3 different plans. Sev-A, Sev-B, and Sev-C. (Adm
 
 </p>
 <p>
-Added 4 new help topics that the customers can use to put in their tickets: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset (Admin Panel -> Manage -> Help Topics -> Add New Help Topic)
+Add 4 new help topics that the customers can use to put in their tickets: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset (Admin Panel -> Manage -> Help Topics -> Add New Help Topic)
 
 
 
